@@ -13,7 +13,7 @@ data = [[np.around(dataset['x'][i], decimals = 3), np.around(dataset['y'][i], de
     for i in range(dataset.shape[0])]
 
 # define metrics
-k = 3
+k = 4 
 
 # instantiate K-Means Clustering class 
 kmeans = KMeansClustering(k = k, dataset = data)
