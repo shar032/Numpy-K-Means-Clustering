@@ -1,2 +1,2 @@
 # Numpy-K-Means-Clustering
-Standard K-Means Clustering Algorithm implementation in Numpy
+Standard 2D K-Means Clustering Algorithm in Numpy, using Forgy Initialization, trained on a sample generated dataset. 
