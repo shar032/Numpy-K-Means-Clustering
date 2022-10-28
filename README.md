@@ -15,3 +15,5 @@ python kmeans_train.py
 ```
 
 ## Output
+
+![Alt text](/images/kmeans_plot.png)  
